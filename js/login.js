@@ -15,4 +15,6 @@ document.getElementById('submit-button').addEventListener('click', function(){
     else{
         alert('wrong information');
     }
+
+    
 })
